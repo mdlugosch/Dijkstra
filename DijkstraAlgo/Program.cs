@@ -11,7 +11,7 @@ namespace DijkstraAlgo
         static double infinity = double.PositiveInfinity;
 
         static void Main(string[] args)
-
+            
         {
             
             /*
