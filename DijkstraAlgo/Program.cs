@@ -13,7 +13,7 @@ namespace DijkstraAlgo
         static void Main(string[] args)
 
         {
-
+            
             /*
 
              * Graphmatrix die den kompletten Graphen abbildet.
